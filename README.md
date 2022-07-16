@@ -7,6 +7,6 @@ I found a library that can pull data from a site to my own site with php. I used
 
 | Parametre | Tip     | Açıklama                |
 | :-------- | :------- | :------------------------- |
-| `class.php | `string` | **Required** to include on your page. |
+| `class.php` | `string` | **Required** to include on your page. |
 
 ![Logo](https://i.hizliresim.com/k7ebs59.png)
